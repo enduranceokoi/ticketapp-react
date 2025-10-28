@@ -10,6 +10,11 @@ import ProtectedRoute from './routes/ProtectedRoute'
 import Footer from './components/Footer'
 import NavBar from './components/NavBar'
 
+
+
+<h1 className="text-4xl font-bold text-blue-600">Tailwind Test</h1>
+
+
 export default function App(){
   return (
     <AuthProvider>
